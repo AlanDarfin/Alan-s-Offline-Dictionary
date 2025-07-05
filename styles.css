@@ -1,0 +1,23 @@
+.dictionary-view-content {
+	padding: 1rem;
+	overflow-y: auto;
+	max-height: 100%;
+}
+
+.dictionary-results {
+	display: flex;
+	flex-direction: column;
+	gap: 1.2rem;
+}
+
+input[type="text"] {
+	width: 100%;
+	padding: 0.5rem;
+	font-size: 1rem;
+}
+
+.dictionary-view-content {
+	padding: 1rem;
+	overflow-y: auto;
+	max-height: 100%;
+}
