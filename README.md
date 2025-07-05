@@ -22,7 +22,7 @@ word description <- optional, but mandatory if you don’t want to just collect 
 
 --- <- required between entries to avoid plugin meltdowns
 
-word 2
+# word 2
 
 ```
 
